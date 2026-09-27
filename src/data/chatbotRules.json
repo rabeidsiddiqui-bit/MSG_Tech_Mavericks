@@ -1,0 +1,134 @@
+{
+  "welcome": {
+    "greeting": "Hi there! 🌱 Welcome to FreshFind! I'm your local harvest guide.",
+    "intro": "Ask me anything about open farmers markets, seasonal produce, vendor schedules, or how to save your favorite spots.",
+    "quickReplies": [
+      {
+        "label": "Find open markets near me",
+        "action": "open_markets"
+      },
+      {
+        "label": "What's in season this week?",
+        "action": "seasonal_produce"
+      },
+      {
+        "label": "Market listings",
+        "action": "view_directory"
+      },
+      {
+        "label": "Kala Board & Malir markets",
+        "action": "malir_markets"
+      },
+      {
+        "label": "How do I save favorites?",
+        "action": "how_to_save"
+      }
+    ]
+  },
+  "rules": [
+    {
+      "id": "greetings",
+      "keywords": ["hello", "hi", "salam", "assalam", "aoa", "hey", "hola", "adab", "kese", "kaise", "who are you"],
+      "response": "Walaykum Assalam! 🌱 Hello! Main FreshFind Assistant hoon.\n\nMain aap ko Karachi aur Malir ki farmers markets, weekly bachat bazars, unki timings, locations, aur fresh seasonal produce (sabzi/phal) dhoondnay me guide karta hoon.\n\nAap mujh se markets ya fresh produce ke hawale se sawal pooch sakte hain!",
+      "actionLink": {
+        "text": "Browse Market Directory ➔",
+        "page": "directory"
+      }
+    },
+    {
+      "id": "malir_markets",
+      "keywords": ["malir", "kala board", "kachi malir", "model colony", "malir cantt", "khokhrapar", "bachat bazar", "bachat"],
+      "response": "Here are local markets active in **Malir & Karachi**:\n\n• **Kala Board Sunday Bachat Bazar** (Sundays 8 AM–3 PM) · Famous weekly bachat market with fresh farm picks from Malir greenbelts.\n• **Malir City Fresh Produce Market** (Daily 7 AM–9 PM) · Fresh daily vegetables, fruits & pure farm dairy.\n• **Model Colony Farmers Corner** (Fri & Sat 4 PM–10 PM) · Evening community night market with herbs & Sidr honey.\n• **Khokhrapar Morning Sabzi Mandi** (Daily 6 AM–1 PM) · Early morning farm harvests at wholesale rates.",
+      "actionLink": {
+        "text": "View Malir Markets in Directory ➔",
+        "page": "directory",
+        "filter": "malir"
+      }
+    },
+    {
+      "id": "open_markets",
+      "keywords": ["open", "today", "near me", "hours", "schedule", "saturday", "weekend", "open markets"],
+      "response": "Here are vibrant farmers markets open this week:\n\n• **Kala Board Sunday Bachat Bazar** (Sundays 8 AM–3 PM)\n• **Malir City Fresh Produce Market** (Daily 7 AM–9 PM)\n• **Model Colony Farmers Corner** (Fri & Sat 4 PM–10 PM)\n• **Sunset Park Farmers Market** (Saturdays 8 AM–1:30 PM)\n• **Downtown Central Plaza** (Wed & Fri 9 AM–2 PM)\n• **Eastside Community Farmstand** (Saturdays 9 AM–3 PM)",
+      "actionLink": {
+        "text": "Browse Market Directory ➔",
+        "page": "directory",
+        "filter": "all"
+      }
+    },
+    {
+      "id": "seasonal_produce",
+      "keywords": ["season", "in season", "harvest", "produce", "fruits", "vegetables", "what's fresh", "fall", "summer", "tomatoes"],
+      "response": "Here is what's peaking right now across our regional farms:\n\n🍅 **Heirloom Tomatoes** (Cherokee Purple & Brandywine)\n🥬 **Organic Palak & Rainbow Greens** (Fresh morning harvest)\n🍓 **Seascape Strawberries** (Fresh coastal pick)\n🍄 **Lion's Mane & Blue Oyster Mushrooms**\n🌿 **Fresh Coriander, Mint & Sweet Basil**\n🍯 **Pure Sidr & Mountain Wildflower Honey**\n🥛 **Pure Buffalo Milk & Handcrafted Cheeses**",
+      "actionLink": {
+        "text": "Explore Full Seasonal Product Guide ➔",
+        "page": "produce",
+        "filter": "all"
+      }
+    },
+    {
+      "id": "view_directory",
+      "keywords": ["market listings", "listings", "directory", "markets", "find markets", "search", "locations", "all markets"],
+      "response": "Here is our verified Market Directory featuring local farmers' markets and weekly bachat bazars with maps, schedules, and certified grower profiles.",
+      "actionLink": {
+        "text": "Open Market Directory ➔",
+        "page": "directory"
+      }
+    },
+    {
+      "id": "how_to_save",
+      "keywords": ["save", "favorite", "bookmark", "heart", "list", "notes", "my list"],
+      "response": "Saving markets and produce is super easy! Simply click the 🔖 bookmark icon on any market or produce card.\n\nYour saved items are automatically stored in your browser's LocalStorage and accessible via the Bookmarks icon in the top navigation bar. You can even attach private shopping notes!",
+      "actionLink": {
+        "text": "Open My Saved Items ➔",
+        "page": "bookmarks"
+      }
+    },
+    {
+      "id": "snap_ebt",
+      "keywords": ["snap", "ebt", "calfresh", "market match", "benefits", "assistance", "payment", "card"],
+      "response": "Most of our partner markets proudly accept SNAP, EBT, or local government Bachat fair-price schemes, making fresh vegetables accessible to everyone!",
+      "actionLink": {
+        "text": "View Fair-Price & SNAP Markets ➔",
+        "page": "directory",
+        "filter": "snap"
+      }
+    },
+    {
+      "id": "tomatoes",
+      "keywords": ["tomato", "tomatoes", "heirloom"],
+      "response": "Vine-ripened tomatoes are available fresh every week at Kala Board Sunday Bachat Bazar, Malir City Market, and Sunset Park.",
+      "actionLink": {
+        "text": "View Tomato Guide ➔",
+        "page": "produce"
+      }
+    },
+    {
+      "id": "mushrooms",
+      "keywords": ["mushroom", "mushrooms", "fungi", "oyster", "lions mane"],
+      "response": "Gourmet Lion's Mane and Blue Oyster mushrooms are available at Model Colony Farmers Corner and Downtown Central Plaza.",
+      "actionLink": {
+        "text": "See Mushroom Details ➔",
+        "page": "produce"
+      }
+    },
+    {
+      "id": "about_contact",
+      "keywords": ["contact", "about", "team", "mission", "vendor apply", "grower apply", "help", "email"],
+      "response": "FreshFind connects shoppers directly with family growers to eliminate food miles and celebrate real seasonal flavor.\n\nWant to list a market or partner with us? Reach out directly via our Contact Us page or email support@freshfindmarket.org.",
+      "actionLink": {
+        "text": "Go to Contact & Inquiries ➔",
+        "page": "contact"
+      }
+    }
+  ],
+  "fallback": {
+    "isError": true,
+    "response": "⚠️ Error: Yahan sirf farmers markets, local weekly bazars, aur fresh produce (sabzi/phal) ke barey me guide kiya jata hai.\n\nBarah-e-karam markets, bazar timings, locations, ya seasonal crops ke hawale se sawal poochein! 🌿\n\n(Guidance here is strictly dedicated to farmers markets and fresh harvest produce. Please ask market or crop-related queries.)",
+    "suggestions": [
+      "Kala Board Sunday Bachat Bazar",
+      "Which markets are open today?",
+      "What produce is in season?",
+      "Where to find fresh organic vegetables?"
+    ]
+  }
+}

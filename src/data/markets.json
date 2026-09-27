@@ -1,0 +1,602 @@
+[
+  {
+    "id": "market-malir-1",
+    "name": "Kala Board Sunday Bachat Bazar",
+    "slug": "kala-board-sunday-bachat-bazar",
+    "neighborhood": "Kachi Malir / Kala Board",
+    "address": "Main National Highway near Kala Board Flyover, Kachi Malir, Karachi",
+    "day": "Sunday",
+    "schedule": "SUN 8AM - 3PM",
+    "hours": {
+      "open": "08:00",
+      "close": "15:00",
+      "days": [
+        "Sunday"
+      ]
+    },
+    "isOpenThisWeek": true,
+    "isOpenToday": true,
+    "status": "Open this week",
+    "distance": "0.5 mi",
+    "distanceMiles": 0.5,
+    "rating": 4.9,
+    "reviewCount": 245,
+    "vendorCount": 78,
+    "headline": "Famous local weekly bachat market offering fresh organic vegetables and seasonal produce directly from Malir farms.",
+    "description": "Famous local weekly bachat market offering fresh organic vegetables and seasonal produce directly from Malir farms.",
+    "image": "/images/market-kalaboard.jpg",
+    "gallery": [
+      "/images/market-kalaboard.jpg",
+      "/images/gallery-produce-stall.jpg"
+    ],
+    "tags": [
+      "Organic",
+      "Vegetables",
+      "Bachat Bazar"
+    ],
+    "categories": [
+      "Vegetables",
+      "Fruits",
+      "Herbs",
+      "Dairy & Cheese"
+    ],
+    "amenities": [
+      "Near Kala Board Bus Stop",
+      "Direct Farm Picked Produce from Malir River Greenbelts",
+      "Wholesale & Family Retail Stalls",
+      "Cash, EasyPaisa & JazzCash Accepted"
+    ],
+    "contact": {
+      "phone": "+92 (021) 3450-8921",
+      "email": "kalaboard@freshfind.pk",
+      "website": "https://freshfind.org/markets/kala-board",
+      "manager": "Haji Muhammad Rafiq"
+    },
+    "coordinates": {
+      "lat": 24.8967,
+      "lng": 67.1947
+    },
+    "mapEmbed": "https://maps.google.com/maps?q=24.8967,67.1947&z=15&output=embed",
+    "growers": [
+      {
+        "name": "Malir River Basin Vegetable Growers",
+        "specialty": "Palak, Fresh Coriander, Mint & Radish",
+        "location": "Malir Greenbelt Farms (1.5 mi)",
+        "avatar": "/images/grower-avatar-1.jpg"
+      },
+      {
+        "name": "Gadap Organic Orchards",
+        "specialty": "Guavas, Papayas & Seasonal Melons",
+        "location": "Gadap Agricultural Zone (12 mi)",
+        "avatar": "/images/grower-avatar-2.jpg"
+      }
+    ],
+    "produceIds": [
+      "produce-1",
+      "produce-2",
+      "produce-3",
+      "produce-5",
+      "produce-6"
+    ]
+  },
+  {
+    "id": "market-malir-2",
+    "name": "Malir City Fresh Produce Hall",
+    "slug": "malir-city-fresh-produce-hall",
+    "neighborhood": "Malir City",
+    "address": "Main Liaquat Market Road, Near Atia Hospital, Malir City, Karachi",
+    "day": "Monday & Wednesday",
+    "schedule": "MON & WED 7AM - 3PM",
+    "hours": {
+      "open": "07:00",
+      "close": "15:00",
+      "days": [
+        "Monday",
+        "Wednesday"
+      ]
+    },
+    "isOpenThisWeek": true,
+    "isOpenToday": true,
+    "status": "Open this week",
+    "distance": "1.2 mi",
+    "distanceMiles": 1.2,
+    "rating": 4.8,
+    "reviewCount": 182,
+    "vendorCount": 64,
+    "headline": "Specialized fresh fruit and vegetable market serving local residents with fresh morning farm picks.",
+    "description": "Specialized fresh fruit and vegetable market serving local residents with fresh morning farm picks.",
+    "image": "/images/market-malircity.jpg",
+    "gallery": [
+      "/images/market-malircity.jpg",
+      "/images/gallery-vegetables-crate.jpg"
+    ],
+    "tags": [
+      "Fresh Harvest",
+      "Fruits",
+      "Dairy"
+    ],
+    "categories": [
+      "Vegetables",
+      "Fruits",
+      "Dairy & Cheese",
+      "Herbs"
+    ],
+    "amenities": [
+      "Prime Central Location in Heart of Malir City",
+      "Morning Harvest Shipments (7:00 AM)",
+      "Fresh Buffalo Milk & Dairy Dispensaries",
+      "Cash & Mobile Wallet Accepted"
+    ],
+    "contact": {
+      "phone": "+92 (021) 3451-2290",
+      "email": "malircity@freshfind.pk",
+      "website": "https://freshfind.org/markets/malir-city",
+      "manager": "Tariq Mahmood"
+    },
+    "coordinates": {
+      "lat": 24.8872,
+      "lng": 67.2023
+    },
+    "mapEmbed": "https://maps.google.com/maps?q=24.8872,67.2023&z=15&output=embed",
+    "growers": [
+      {
+        "name": "Al-Barkat Dairy & Cattle Farm",
+        "specialty": "Pure Buffalo Milk, Fresh Cream & Butter",
+        "location": "Bhains Colony / Malir Outskirts (3.5 mi)",
+        "avatar": "/images/grower-avatar-3.jpg"
+      },
+      {
+        "name": "Sindh Green Growers Cooperative",
+        "specialty": "Okra, Bitter Gourd & Bottle Gourd",
+        "location": "Thatta Highway Belt (16 mi)",
+        "avatar": "/images/grower-avatar-4.jpg"
+      }
+    ],
+    "produceIds": [
+      "produce-2",
+      "produce-5",
+      "produce-7",
+      "produce-9",
+      "produce-10"
+    ]
+  },
+  {
+    "id": "market-malir-3",
+    "name": "Model Colony Farmers Corner",
+    "slug": "model-colony-farmers-corner",
+    "neighborhood": "Model Colony",
+    "address": "Near Jinnah Avenue & Model Colony Central Park, Malir, Karachi",
+    "day": "Friday & Saturday",
+    "schedule": "FRI & SAT 4PM - 10PM",
+    "hours": {
+      "open": "16:00",
+      "close": "22:00",
+      "days": [
+        "Friday",
+        "Saturday"
+      ]
+    },
+    "isOpenThisWeek": true,
+    "isOpenToday": false,
+    "status": "Open this week",
+    "distance": "1.8 mi",
+    "distanceMiles": 1.8,
+    "rating": 4.92,
+    "reviewCount": 118,
+    "vendorCount": 38,
+    "headline": "Community evening market featuring fresh green herbs, organic honey, and local farm goods.",
+    "description": "Community evening market featuring fresh green herbs, organic honey, and local farm goods.",
+    "image": "/images/market-modelcolony.jpg",
+    "gallery": [
+      "/images/market-modelcolony.jpg",
+      "/images/gallery-farmers-bazaar.jpg"
+    ],
+    "tags": [
+      "Organic",
+      "Herbs",
+      "Honey"
+    ],
+    "categories": [
+      "Herbs",
+      "Honey & Preserves",
+      "Vegetables",
+      "Local Products"
+    ],
+    "amenities": [
+      "Pleasant Evening Hours (4 PM - 10 PM)",
+      "Adjacent to Green Park with Walking Track",
+      "Raw Sidr Honey Sampling Kiosk",
+      "Herb Seedlings & Potted Kitchen Plants"
+    ],
+    "contact": {
+      "phone": "+92 (021) 3458-7104",
+      "email": "modelcolony@freshfind.pk",
+      "website": "https://freshfind.org/markets/model-colony",
+      "manager": "Zainab Siddiqui"
+    },
+    "coordinates": {
+      "lat": 24.9048,
+      "lng": 67.1852
+    },
+    "mapEmbed": "https://maps.google.com/maps?q=24.9048,67.1852&z=15&output=embed",
+    "growers": [
+      {
+        "name": "Kirthar Foothills Apiaries",
+        "specialty": "Pure Sidr & Wild Mountain Honey",
+        "location": "Kirthar Foothills (40 mi)",
+        "avatar": "/images/grower-avatar-5.jpg"
+      },
+      {
+        "name": "Model Botanical Nursery",
+        "specialty": "Fresh Basil, Lemongrass & Mint",
+        "location": "Model Colony (0.8 mi)",
+        "avatar": "/images/grower-avatar-6.jpg"
+      }
+    ],
+    "produceIds": [
+      "produce-4",
+      "produce-5",
+      "produce-8",
+      "produce-10"
+    ]
+  },
+  {
+    "id": "market-malir-4",
+    "name": "Malir Cantt Organic Green Hub",
+    "slug": "malir-cantt-organic-green-hub",
+    "neighborhood": "Malir Cantt",
+    "address": "Near Falcon Complex Commercial Avenue, Malir Cantt, Karachi",
+    "day": "Saturday",
+    "schedule": "SAT 9AM - 3PM",
+    "hours": {
+      "open": "09:00",
+      "close": "15:00",
+      "days": [
+        "Saturday"
+      ]
+    },
+    "isOpenThisWeek": true,
+    "isOpenToday": true,
+    "status": "Open this week",
+    "distance": "2.8 mi",
+    "distanceMiles": 2.8,
+    "rating": 4.95,
+    "reviewCount": 164,
+    "vendorCount": 45,
+    "headline": "Upscale weekend organic market offering certified pesticide-free crops, cold-pressed oils, and farm bakery.",
+    "description": "Upscale weekend organic market offering certified pesticide-free crops, cold-pressed oils, and farm bakery.",
+    "image": "/images/market-malircantt.jpg",
+    "gallery": [
+      "/images/market-malircantt.jpg"
+    ],
+    "tags": [
+      "Organic",
+      "Farm Direct",
+      "Bakery",
+      "Gourmet Cheeses"
+    ],
+    "categories": [
+      "Vegetables",
+      "Fruits",
+      "Dairy & Cheese",
+      "Bakery",
+      "Local Products"
+    ],
+    "amenities": [
+      "Secure Cantt Area Parking",
+      "Certified Pesticide-Free Stalls",
+      "Debit/Credit Cards & Digital Pay Accepted"
+    ],
+    "contact": {
+      "phone": "+92 (021) 3490-1122",
+      "email": "malircantt@freshfind.pk",
+      "website": "https://freshfind.org/markets/malir-cantt",
+      "manager": "Major (R) Asad Khan"
+    },
+    "coordinates": {
+      "lat": 24.9312,
+      "lng": 67.2085
+    },
+    "mapEmbed": "https://maps.google.com/maps?q=24.9312,67.2085&z=15&output=embed",
+    "growers": [
+      {
+        "name": "Indus Valley Hydroponics",
+        "specialty": "Butterhead Lettuce & Cherry Tomatoes",
+        "location": "Super Highway Farms (10 mi)",
+        "avatar": "/images/grower-avatar-1.jpg"
+      }
+    ],
+    "produceIds": [
+      "produce-1",
+      "produce-2",
+      "produce-7",
+      "produce-10",
+      "produce-11"
+    ]
+  },
+  {
+    "id": "market-malir-5",
+    "name": "Khokhrapar Morning Sabzi Mandi",
+    "slug": "khokhrapar-morning-sabzi-mandi",
+    "neighborhood": "Khokhrapar",
+    "address": "Main Khokhrapar Bazar Road, Malir Extension, Karachi",
+    "day": "Tuesday & Thursday",
+    "schedule": "TUE & THU 6AM - 1PM",
+    "hours": {
+      "open": "06:00",
+      "close": "13:00",
+      "days": [
+        "Tuesday",
+        "Thursday"
+      ]
+    },
+    "isOpenThisWeek": true,
+    "isOpenToday": true,
+    "status": "Open this week",
+    "distance": "1.5 mi",
+    "distanceMiles": 1.5,
+    "rating": 4.75,
+    "reviewCount": 92,
+    "vendorCount": 50,
+    "headline": "Early bird local market serving fresh morning harvests straight from Malir riverbed farms.",
+    "description": "Early bird local market serving fresh morning harvests straight from Malir riverbed farms.",
+    "image": "/images/market-khokhrapar.jpg",
+    "gallery": [
+      "/images/market-khokhrapar.jpg"
+    ],
+    "tags": [
+      "Vegetables",
+      "Fresh Harvest",
+      "Bachat Bazar"
+    ],
+    "categories": [
+      "Vegetables",
+      "Fruits",
+      "Herbs"
+    ],
+    "amenities": [
+      "Early Morning Fresh Shipments (6 AM)",
+      "Unmatched Wholesale & Retail Rates",
+      "Fresh Coriander & Green Chilies Bundles"
+    ],
+    "contact": {
+      "phone": "+92 (021) 3456-4410",
+      "email": "khokhrapar@freshfind.pk",
+      "website": "https://freshfind.org/markets/khokhrapar",
+      "manager": "Muhammad Yousuf"
+    },
+    "coordinates": {
+      "lat": 24.8911,
+      "lng": 67.2136
+    },
+    "mapEmbed": "https://maps.google.com/maps?q=24.8911,67.2136&z=15&output=embed",
+    "growers": [
+      {
+        "name": "Khokhrapar Green Cultivators",
+        "specialty": "Methi, Palak, Garlic & Green Chilies",
+        "location": "Malir River Bed (1 mi)",
+        "avatar": "/images/grower-avatar-2.jpg"
+      }
+    ],
+    "produceIds": [
+      "produce-2",
+      "produce-5",
+      "produce-6"
+    ]
+  },
+  {
+    "id": "market-malir-6",
+    "name": "Saudabad Farm Fresh Bachat Bazar",
+    "slug": "saudabad-farm-fresh-bachat-bazar",
+    "neighborhood": "Saudabad",
+    "address": "Near Saudabad Roundabout & Chiniot General Hospital, Saudabad, Malir, Karachi",
+    "day": "Sunday",
+    "schedule": "SUN 8AM - 2PM",
+    "hours": {
+      "open": "08:00",
+      "close": "14:00",
+      "days": [
+        "Sunday"
+      ]
+    },
+    "isOpenThisWeek": true,
+    "isOpenToday": true,
+    "status": "Open this week",
+    "distance": "0.9 mi",
+    "distanceMiles": 0.9,
+    "rating": 4.88,
+    "reviewCount": 134,
+    "vendorCount": 52,
+    "headline": "Popular community bachat bazaar offering freshly picked seasonal veggies and citrus fruits from nearby orchards.",
+    "description": "Popular community bachat bazaar offering freshly picked seasonal veggies and citrus fruits from nearby orchards.",
+    "image": "/images/market-saudabad.jpg",
+    "gallery": [
+      "/images/market-saudabad.jpg",
+      "/images/gallery-produce-stall.jpg"
+    ],
+    "tags": [
+      "Vegetables",
+      "Citrus",
+      "Bachat Bazar"
+    ],
+    "categories": [
+      "Vegetables",
+      "Fruits",
+      "Herbs"
+    ],
+    "amenities": [
+      "Central Saudabad Malir Location",
+      "Direct Grower Stalls from Malir Farms",
+      "Wide Open Walkways and Parking",
+      "Cash & Mobile Wallet Accepted"
+    ],
+    "contact": {
+      "phone": "+92 (021) 3440-2388",
+      "email": "saudabad@freshfind.pk",
+      "website": "https://freshfind.org/markets/saudabad",
+      "manager": "Rashid Mehmood"
+    },
+    "coordinates": {
+      "lat": 24.8978,
+      "lng": 67.1994
+    },
+    "mapEmbed": "https://maps.google.com/maps?q=24.8978,67.1994&z=15&output=embed",
+    "growers": [
+      {
+        "name": "Malir River Orchard Cooperative",
+        "specialty": "Fresh Spinach, Mint & Seasonal Greens",
+        "location": "Saudabad Malir (1.2 mi)",
+        "avatar": "/images/grower-avatar-7.jpg"
+      }
+    ],
+    "produceIds": [
+      "produce-1",
+      "produce-3",
+      "produce-5",
+      "produce-7"
+    ]
+  },
+  {
+    "id": "market-malir-7",
+    "name": "Jaffar-e-Tayyar Fresh Farmers Mandi",
+    "slug": "jaffar-e-tayyar-fresh-farmers-mandi",
+    "neighborhood": "Jaffar-e-Tayyar",
+    "address": "Main Commercial Road Near Central Ground, Jaffar-e-Tayyar Society, Malir, Karachi",
+    "day": "Friday",
+    "schedule": "FRI 3PM - 9PM",
+    "hours": {
+      "open": "15:00",
+      "close": "21:00",
+      "days": [
+        "Friday"
+      ]
+    },
+    "isOpenThisWeek": true,
+    "isOpenToday": true,
+    "status": "Open this week",
+    "distance": "1.4 mi",
+    "distanceMiles": 1.4,
+    "rating": 4.82,
+    "reviewCount": 98,
+    "vendorCount": 40,
+    "headline": "Vibrant Friday evening farmers market featuring certified farm fresh root vegetables, melons, and goat milk cheese.",
+    "description": "Vibrant Friday evening farmers market featuring certified farm fresh root vegetables, melons, and goat milk cheese.",
+    "image": "/images/market-jaffartayyar.jpg",
+    "gallery": [
+      "/images/market-jaffartayyar.jpg"
+    ],
+    "tags": [
+      "Friday Market",
+      "Vegetables",
+      "Dairy"
+    ],
+    "categories": [
+      "Vegetables",
+      "Fruits",
+      "Dairy & Cheese",
+      "Herbs"
+    ],
+    "amenities": [
+      "Convenient Friday Afternoon & Evening Timings",
+      "Direct Farm Trucks from Rural Sindh Belts",
+      "Special Fresh Coriander & Herb Stalls"
+    ],
+    "contact": {
+      "phone": "+92 (021) 3452-9901",
+      "email": "jaffartayyar@freshfind.pk",
+      "website": "https://freshfind.org/markets/jaffar-tayyar",
+      "manager": "Syed Ali Raza"
+    },
+    "coordinates": {
+      "lat": 24.8821,
+      "lng": 67.1955
+    },
+    "mapEmbed": "https://maps.google.com/maps?q=24.8821,67.1955&z=15&output=embed",
+    "growers": [
+      {
+        "name": "Tayyar Local Agro Farms",
+        "specialty": "Heirloom Carrots, Radish & Turnips",
+        "location": "Jaffar-e-Tayyar Belt (0.8 mi)",
+        "avatar": "/images/grower-avatar-3.jpg"
+      }
+    ],
+    "produceIds": [
+      "produce-2",
+      "produce-4",
+      "produce-6",
+      "produce-8"
+    ]
+  },
+  {
+    "id": "market-malir-8",
+    "name": "Gharibabad Malir Organic Green Market",
+    "slug": "gharibabad-malir-organic-green-market",
+    "neighborhood": "Gharibabad",
+    "address": "Gharibabad Railway Crossing Market Ground, Malir, Karachi",
+    "day": "Tuesday & Saturday",
+    "schedule": "TUE & SAT 8AM - 2PM",
+    "hours": {
+      "open": "08:00",
+      "close": "14:00",
+      "days": [
+        "Tuesday",
+        "Saturday"
+      ]
+    },
+    "isOpenThisWeek": true,
+    "isOpenToday": true,
+    "status": "Open this week",
+    "distance": "1.1 mi",
+    "distanceMiles": 1.1,
+    "rating": 4.91,
+    "reviewCount": 110,
+    "vendorCount": 46,
+    "headline": "Bi-weekly community farmers hub with organic certified greens, raw natural honey, and crisp riverbed produce.",
+    "description": "Bi-weekly community farmers hub with organic certified greens, raw natural honey, and crisp riverbed produce.",
+    "image": "/images/market-gharibabad.jpg",
+    "gallery": [
+      "/images/market-gharibabad.jpg"
+    ],
+    "tags": [
+      "Organic",
+      "Honey",
+      "Bachat Bazar"
+    ],
+    "categories": [
+      "Vegetables",
+      "Honey & Preserves",
+      "Fruits",
+      "Local Products"
+    ],
+    "amenities": [
+      "Ample Space Near Malir Rail Line",
+      "Fresh Cut Morning Coriander & Green Leafies",
+      "Raw Honey & Desi Ghee Vendors"
+    ],
+    "contact": {
+      "phone": "+92 (021) 3457-8812",
+      "email": "gharibabad@freshfind.pk",
+      "website": "https://freshfind.org/markets/gharibabad-malir",
+      "manager": "Kamran Baloch"
+    },
+    "coordinates": {
+      "lat": 24.8934,
+      "lng": 67.2051
+    },
+    "mapEmbed": "https://maps.google.com/maps?q=24.8934,67.2051&z=15&output=embed",
+    "growers": [
+      {
+        "name": "Baloch Agro Apiary & Farms",
+        "specialty": "Natural Honey, Bitter Gourd & Fresh Mint",
+        "location": "Malir Valley (2.2 mi)",
+        "avatar": "/images/grower-avatar-4.jpg"
+      }
+    ],
+    "produceIds": [
+      "produce-1",
+      "produce-3",
+      "produce-5",
+      "produce-9"
+    ]
+  }
+]

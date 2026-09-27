@@ -1,0 +1,276 @@
+[
+  {
+    "id": "produce-1",
+    "name": "Heirloom Tomatoes",
+    "botanicalName": "Solanum lycopersicum",
+    "category": "Fruits",
+    "season": "Summer / Early Fall",
+    "seasonKey": "summer",
+    "peakMonths": [
+      "July",
+      "August",
+      "September",
+      "October"
+    ],
+    "seasonTag": "In Season: Summer",
+    "shortDescription": "Sweet, deeply complex, low-acid heritage tomatoes picked dead-ripe off the vine.",
+    "description": "These prized heritage varieties trace back generations. With thin skins, rich marbled flesh, and a complex savory-sweet balance that commercial grocery store varieties can never match, they are meant to be sliced thick and served simply with sea salt and fresh olive oil.",
+    "image": "/images/produce-tomatoes.jpg",
+    "storageTip": "Never refrigerate! Store stem-side down at room temperature away from direct sunlight to preserve delicate aromatics and juicy texture.",
+    "flavorNotes": "Earthy, wine-like sweetness with smoky undertones and pleasant acidity.",
+    "nutrition": [
+      "High Lycopene",
+      "Vitamin C",
+      "Potassium",
+      "Vitamin K1"
+    ],
+    "bestUses": [
+      "Caprese Salad",
+      "Sourdough Toast with Flaky Salt",
+      "Fresh Gazpacho",
+      "Slow-Roasted Confit"
+    ],
+    "marketIds": [
+      "market-malir-1",
+      "market-malir-4"
+    ]
+  },
+  {
+    "id": "produce-2",
+    "name": "Rainbow Carrots",
+    "botanicalName": "Daucus carota subsp. sativus",
+    "category": "Vegetables",
+    "season": "Spring / Fall",
+    "seasonKey": "fall",
+    "peakMonths": [
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "seasonTag": "In Season: Autumn",
+    "shortDescription": "Sweet, crunchy heirloom carrots in vivid purple, golden yellow, and deep orange hues.",
+    "description": "Pulled crisp from the sandy soil of Malir and coastal riverbeds. Loaded with natural sweetness, beta-carotene, and anthocyanins. Wonderful raw with hummus or slow-roasted with coriander and honey.",
+    "image": "/images/produce-carrots.jpg",
+    "storageTip": "Remove green tops and store roots wrapped in a damp paper towel in the crisper drawer for up to 3 weeks.",
+    "flavorNotes": "Crisp, sweet, floral and earthy with honey undertones.",
+    "nutrition": [
+      "Beta-Carotene",
+      "Fiber",
+      "Potassium",
+      "Antioxidants"
+    ],
+    "bestUses": [
+      "Roasted with Cumin & Honey",
+      "Crunchy Slaw",
+      "Pickled Sticks",
+      "Fresh Juice"
+    ],
+    "marketIds": [
+      "market-malir-1",
+      "market-malir-2",
+      "market-malir-5"
+    ]
+  },
+  {
+    "id": "produce-3",
+    "name": "Garden Herbs",
+    "botanicalName": "Ocimum basilicum & Mentha",
+    "category": "Herbs",
+    "season": "All Year",
+    "seasonKey": "all-year",
+    "peakMonths": [
+      "Year-Round"
+    ],
+    "seasonTag": "In Season: Fresh Daily",
+    "shortDescription": "Hand-picked bundles of sweet basil, fragrant garden mint (pudina), and fresh coriander.",
+    "description": "Grown in nutrient-rich organic compost along the riverbed plots. Cut fresh at dawn for market morning, delivering intense aroma and culinary essential oils for chutneys, salads, and curries.",
+    "image": "/images/produce-herbs.jpg",
+    "storageTip": "Trim stems and place upright in a jar with an inch of fresh water on your countertop.",
+    "flavorNotes": "Aromatic, peppery clove, sharp refreshing menthol, citrus.",
+    "nutrition": [
+      "Vitamin K",
+      "Essential Oils",
+      "Digestive Enzymes"
+    ],
+    "bestUses": [
+      "Fresh Mint & Coriander Chutney",
+      "Garden Salads",
+      "Herbal Tea",
+      "Garnish"
+    ],
+    "marketIds": [
+      "market-malir-1",
+      "market-malir-2",
+      "market-malir-3",
+      "market-malir-5"
+    ]
+  },
+  {
+    "id": "produce-4",
+    "name": "Market Berries",
+    "botanicalName": "Fragaria × ananassa & Rubus",
+    "category": "Fruits",
+    "season": "Spring / Summer",
+    "seasonKey": "summer",
+    "peakMonths": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "seasonTag": "In Season: Peak Sweetness",
+    "shortDescription": "Naturally vine-ripened berries with deep crimson centers and perfume-like sweetness.",
+    "description": "Grown without chemical ripening agents and harvested only when fully red and sweet. Sweet, juicy, and fragrant through the core, bursting with sunshine and natural vitamin C.",
+    "image": "/images/produce-berries.jpg",
+    "storageTip": "Do not wash until ready to eat. Store dry in a single layer with a paper towel in the refrigerator.",
+    "flavorNotes": "Floral strawberry sweetness with crisp natural tartness.",
+    "nutrition": [
+      "Vitamin C (120% DV)",
+      "Manganese",
+      "Polyphenols"
+    ],
+    "bestUses": [
+      "Fresh Breakfast Bowls",
+      "Smoothies",
+      "Tarts",
+      "Local Jam"
+    ],
+    "marketIds": [
+      "market-malir-1",
+      "market-malir-2"
+    ]
+  },
+  {
+    "id": "produce-5",
+    "name": "Organic Tender Greens & Spinach",
+    "botanicalName": "Spinacia oleracea",
+    "category": "Vegetables",
+    "season": "All Year",
+    "seasonKey": "all-year",
+    "peakMonths": [
+      "Year-Round"
+    ],
+    "seasonTag": "In Season: Daily Pick",
+    "shortDescription": "Crisp morning-harvested baby spinach and chard loaded with iron and magnesium.",
+    "description": "Harvested daily by local Malir growers. Succulent green leaves bursting with minerals, crisp stems, and vibrant earthy flavor.",
+    "image": "/images/produce-spinach.jpg",
+    "storageTip": "Keep in a dry container with a clean paper towel in the crisper drawer.",
+    "flavorNotes": "Crisp, mild, sweet iron undertones.",
+    "nutrition": [
+      "Iron",
+      "Folate",
+      "Vitamin A",
+      "Vitamin C"
+    ],
+    "bestUses": [
+      "Saag",
+      "Fresh Green Omelette",
+      "Garlic Stir-fry",
+      "Salads"
+    ],
+    "marketIds": [
+      "market-malir-1",
+      "market-malir-2",
+      "market-malir-5"
+    ]
+  },
+  {
+    "id": "produce-6",
+    "name": "Pure Sidr & Mountain Wild Honey",
+    "botanicalName": "Apis mellifera Raw Sidr",
+    "category": "Local Products",
+    "season": "Late Summer / Fall",
+    "seasonKey": "fall",
+    "peakMonths": [
+      "August",
+      "September",
+      "October"
+    ],
+    "seasonTag": "In Season: Fresh Extract",
+    "shortDescription": "Raw unfiltered golden nectar harvested directly from foothill hives without heat treatment.",
+    "description": "Collected from bees foraging in coastal and foothill berry blossoms. Rich in pollen, enzymes, and natural antibacterial properties.",
+    "image": "/images/produce-honey.jpg",
+    "storageTip": "Store sealed at room temperature. If crystallized, gently warm jar in warm water.",
+    "flavorNotes": "Butterscotch, floral warmth, clean herbal finish.",
+    "nutrition": [
+      "Active Enzymes",
+      "Antioxidants",
+      "Natural Trace Minerals"
+    ],
+    "bestUses": [
+      "Morning Tea",
+      "Drizzled over Yogurt",
+      "Toast with Butter",
+      "Natural Immunity"
+    ],
+    "marketIds": [
+      "market-malir-3"
+    ]
+  },
+  {
+    "id": "produce-7",
+    "name": "Farmstead Dairy & Fresh Buffalo Milk",
+    "botanicalName": "Artisanal Pure Dairy",
+    "category": "Dairy",
+    "season": "All Year",
+    "seasonKey": "all-year",
+    "peakMonths": [
+      "Year-Round"
+    ],
+    "seasonTag": "In Season: Daily Farm Fresh",
+    "shortDescription": "Pure unadulterated farm milk, rich yogurt (dahi), and cultured desi butter.",
+    "description": "Sourced every dawn from nearby pasture-fed cattle farms on the outskirts of Malir. Free from preservatives and rich in cream.",
+    "image": "/images/produce-dairy.jpg",
+    "storageTip": "Keep strictly chilled below 4°C and boil within 24 hours of purchase.",
+    "flavorNotes": "Rich, creamy, slightly sweet and velvety.",
+    "nutrition": [
+      "Calcium",
+      "Protein",
+      "Probiotics in Dahi",
+      "Healthy Fats"
+    ],
+    "bestUses": [
+      "Fresh Chai",
+      "Traditional Dahi",
+      "Desi Ghee",
+      "Baking"
+    ],
+    "marketIds": [
+      "market-malir-2",
+      "market-malir-4"
+    ]
+  },
+  {
+    "id": "produce-8",
+    "name": "Wood-Fired Bakery Bread & Naan",
+    "botanicalName": "Artisan Hearth Breads",
+    "category": "Local Products",
+    "season": "All Year",
+    "seasonKey": "all-year",
+    "peakMonths": [
+      "Year-Round"
+    ],
+    "seasonTag": "In Season: Daily Baked",
+    "shortDescription": "Stone-milled whole wheat bread and sourdough baked in brick hearth ovens.",
+    "description": "Slow cold fermentation crafted using locally milled flours. Crisp crust with an airy crumb and gentle nutty flavor.",
+    "image": "/images/produce-bread.jpg",
+    "storageTip": "Store cut-side down on a wooden cutting board or bread bin.",
+    "flavorNotes": "Toasted grains, caramelization, nutty finish.",
+    "nutrition": [
+      "Prebiotic Fermentation",
+      "Ancient Grains",
+      "Zero Preservatives"
+    ],
+    "bestUses": [
+      "Breakfast Toast",
+      "Dipping with Soups & Stews",
+      "Sandwiches"
+    ],
+    "marketIds": [
+      "market-malir-2",
+      "market-malir-3",
+      "market-malir-4"
+    ]
+  }
+]
